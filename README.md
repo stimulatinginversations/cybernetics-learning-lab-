@@ -248,7 +248,7 @@ Fields influencing this learning journey include:
 
 ## Current Status
 
-Project 01: Creature Simulator
+Project 01: Creature Simulator — planned
 
-Beginning the journey.
+Project 02: State Machine Robot — implemented (`02_state_machine_robot/`)
 
