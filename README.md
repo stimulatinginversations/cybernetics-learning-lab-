@@ -250,5 +250,17 @@ Fields influencing this learning journey include:
 
 Project 01: Creature Simulator
 
-Beginning the journey.
+Starter project added:
+
+* `01_creature_simulator/README.md`
+* `01_creature_simulator/creature_simulator.py`
+* `01_creature_simulator/exercises.md`
+
+Current learning focus:
+
+* Representing internal state with variables
+* Updating state over time
+* Using functions to separate responsibilities
+* Connecting simple program loops to the sense-act-repeat pattern used in
+  cybernetics, robotics, and adaptive systems
 
